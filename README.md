@@ -7,7 +7,7 @@ This project focuses on clean UI/UX, smooth animations, and real-world SaaS desi
 ---
 
 ## 🌐 Live Demo
-👉 https://your-deployed-link.vercel.app/
+👉 https://work-nest-eta.vercel.app/
 
 ---
 
@@ -77,17 +77,20 @@ npm run dev
 
 🎯 Purpose of This Project
 
-This project was built to:
-
+**This project was built to:**
 Practice modern SaaS UI design
 Improve frontend development skills
 Create a portfolio-ready project
 Demonstrate real-world landing page structure
+
+
 🚀 Future Improvements
 Add authentication (login/signup)
 Integrate backend (Node.js / Firebase)
 Add real dashboard functionality
 Improve accessibility (a11y)
+
+
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
