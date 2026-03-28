@@ -32,6 +32,11 @@ This project focuses on clean UI/UX, smooth animations, and real-world SaaS desi
 - **Animations:** Framer Motion
 - **Icons:** Lucide React
 
+** Screenshots**
+**Hero Section**
+<img width="1918" height="691" alt="{50D88CDC-5DEB-4B0E-A53F-118AD5708541}" src="https://github.com/user-attachments/assets/2cb3f3b9-9538-4fb4-bfce-ee19a233ae49" />
+
+
 
 ## 📁 Project Structure
 
@@ -69,12 +74,6 @@ npm install
 
 # Run development server
 npm run dev
-
-📸 Screenshots
-<img width="1916" height="958" alt="{172C9246-2BE4-47DA-8889-6A1668BD731D}" src="https://github.com/user-attachments/assets/9f1792ac-317a-4108-9a12-3e6cc757626f" />
-<img width="1910" height="569" alt="{D741353D-7D45-454A-8363-47AE1A3CF375}" src="https://github.com/user-attachments/assets/00b263b9-977b-4e2d-b460-c81727efae7e" />
-<img width="1881" height="587" alt="{0C670386-BEDD-4D14-A965-476F0680533A}" src="https://github.com/user-attachments/assets/4091a414-be08-42e2-b91f-5c7f7b2e9b93" />
-<img width="1894" height="618" alt="{586966F9-2DCB-4800-A817-A258C7D6836F}" src="https://github.com/user-attachments/assets/a497f655-fe39-459d-aa2d-c017c1071ac7" />
 
 🎯 Purpose of This Project
 
