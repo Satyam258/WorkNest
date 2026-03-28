@@ -36,6 +36,11 @@ This project focuses on clean UI/UX, smooth animations, and real-world SaaS desi
 **Hero Section**
 <img width="1918" height="691" alt="{50D88CDC-5DEB-4B0E-A53F-118AD5708541}" src="https://github.com/user-attachments/assets/2cb3f3b9-9538-4fb4-bfce-ee19a233ae49" />
 
+**DashBoard Preview**
+<img width="1920" height="597" alt="{AD3257E2-30BE-4B89-9E9E-5FAF8A0C04DA}" src="https://github.com/user-attachments/assets/b71d651e-7e87-4456-a2e8-08489909a3d3" />
+
+**Pricing Section**
+<img width="1878" height="799" alt="{7E6FEB86-CF90-4A98-B652-CDEE529279DF}" src="https://github.com/user-attachments/assets/2438c37a-2407-4d70-bf70-0391650c55df" />
 
 
 ## 📁 Project Structure
