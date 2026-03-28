@@ -34,6 +34,7 @@ This project focuses on clean UI/UX, smooth animations, and real-world SaaS desi
 
 
 ## 📁 Project Structure
+
 src/
 │
 ├── components/
